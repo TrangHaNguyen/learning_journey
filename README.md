@@ -1,2 +1,2 @@
 # learning_journey
-## Trang's Work
+## This is my first testing on github setting
